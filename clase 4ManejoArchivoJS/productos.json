@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "tv 1",
+    "description": "Descripción del tv 1",
+    "price": 100000,
+    "thumbnail": "tv.jpg",
+    "code": "1020",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "title": "tv 3",
+    "description": "Descripción del tv 3",
+    "price": 120000,
+    "thumbnail": "tv.jpg",
+    "code": "87010",
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "title": "tv 4",
+    "description": "Descripción del tv 4",
+    "price": 58045,
+    "thumbnail": "tv.jpg",
+    "code": "151010",
+    "stock": 810
+  }
+]
