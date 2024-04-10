@@ -1,0 +1,75 @@
+[
+	{
+		"id":1,
+		"title": "tv 29´",
+		"description": "Descripcion de tv",
+		"price": 152600,
+		"thumbnail": "No disponible",
+		"code": "asd12",
+		"category": "Electrodoméstico",
+		"stock": 15
+		
+
+	},
+	{
+		"id":2,
+		"title": "celuar Samsung",
+		"description": "Descripcion de celular",
+		"price": 92600,
+		"thumbnail": "No disponible",
+		"code": "asad22",
+		"category": "Electrodoméstico",
+		"stock": 150
+		
+
+	},
+	{
+		"id":3,
+		"title": "notebook hp",
+		"description": "Descripcion de notebook",
+		"price": 550600,
+		"thumbnail": "No disponible",
+		"code": "ghsd12",
+		"category": "Electrodoméstico",
+		"stock": 6
+		
+
+	},
+	{
+		"id":4,
+		"title": "teclado inalambrico",
+		"description": "Descripcion de teclado",
+		"price": 12600,
+		"thumbnail": "No disponible",
+		"code": "23d12",
+		"category": "Electrodoméstico",
+		"stock": 15903
+		
+
+	},
+	{
+		"id":5,
+		"title": "tv 32´",
+		"description": "Descripcion de tv",
+		"price": 1592600,
+		"thumbnail": "No disponible",
+		"code": "54asd12",
+		"category": "Electrodoméstico",
+		"stock": 22
+		
+
+	},
+	{
+		"id":6,
+		"title": "tablet",
+		"description": "Descripcion de tablet",
+		"price": 452600,
+		"thumbnail": "No disponible",
+		"code": "89asd12",
+		"category": "Electrodoméstico",
+		"stock": 88
+		
+
+	}
+
+]
